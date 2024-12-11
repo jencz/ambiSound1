@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ambiSound</string>
+    <string name="opening_explore_new_ambient_sounds">Explore New Ambient Sounds</string>
+    <string name="opening_search_label">Search</string>
+    <string name="opening_history_button_label">History</string>
+    <string name="opening_error_text">You did not enter any fields</string>
+    <string name="opening_magnifying_glass_desc">Magnifying glass icon</string>
+</resources>
